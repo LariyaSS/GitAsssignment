@@ -1,3 +1,4 @@
 HiGit
 
 Hello Git
+Added this line after cloning
